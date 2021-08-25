@@ -1,6 +1,6 @@
 <p align="center"><img width="500" alt="portfolio_view" src="./App-Screenshot.png"></p>
 
-# Copy coordinates inside XVG files to your clipboard
+# Copy coordinates from XVG files to your clipboard
 
 Author: Eddy BARRAUD
 
